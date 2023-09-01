@@ -1,5 +1,5 @@
 ### Hairs Buddy - Blog & Website
-![Hairs Buddy Logo](/Hairs-Buddy-frontend/src/assets/Logo.png)
+![Hairs Buddy Logo](src/assets/Logo.png)
 
 
 Hairs Buddy is a comprehensive blog and website dedicated to hair care. 
