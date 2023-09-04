@@ -69,7 +69,7 @@ const Header = () => {
 
   return (
     <section>
-      <header className="container mx-auto px-5 flex justify-between py-4 items-center">
+      <header className="container  mx-auto px-5 flex justify-between py-4 items-center">
         <div>
           <img src={images.Logo} alt="Logo" className="h-16 w-30" />
         </div>
